@@ -5,7 +5,6 @@
 - 📫 How to reach me: You can email me at ohfreejia@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love hiking, and I successfully climbed Mount Fuji this year!
-- 
 <!---
 devForJaja/devForJaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
